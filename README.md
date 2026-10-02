@@ -1,1 +1,2 @@
 # pygame
+belajar dasar pygame
